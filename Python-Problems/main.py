@@ -1,4 +1,5 @@
 # First app in python
+from turtle import width
 from unicodedata import name
 
 
@@ -19,4 +20,9 @@ Int => 1, 2, 3, 9, 100 ....
 Float => 1.2, 2.5, 9.1, 11.05 
 Complex => Syntax: X + Yj
 """
+
+# Numbers, height and width variables
+width = 15
+height = 2 * 5
+print(height * width)
 
