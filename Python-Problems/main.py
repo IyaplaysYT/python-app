@@ -12,3 +12,11 @@ print("Hello " + name)
 the_world_is_flat = True
 if(the_world_is_flat):
     print("Be careful not to fall of")
+
+"""
+Numbers and arithmetic operations
+Int => 1, 2, 3, 9, 100 ....
+Float => 1.2, 2.5, 9.1, 11.05 
+Complex => Syntax: X + Yj
+"""
+
