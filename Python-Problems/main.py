@@ -6,7 +6,7 @@ print("Hello, World")
 
 # declaring a variable
 name = 'Yasser' # You can change your name here to whatever you want
-print(name)
+print("Hello " + name)
 
 # Conditional if statement
 the_world_is_flat = True
