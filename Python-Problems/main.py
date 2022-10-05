@@ -9,7 +9,7 @@ print("Hello, World")
 
 # declaring a variable
 name = 'Steve' # You can change your name here to whatever you want
-print("Hello " + name)
+print("Hello " + name + "," +  " How are you today?")
 
 # Conditional if statement
 the_world_is_flat = True
