@@ -25,4 +25,5 @@ Complex => Syntax: X + Yj
 width = 15
 height = 2 * 5
 print(height * width)
-
+if(height * width):
+    print(height * width / 5)
