@@ -3,13 +3,17 @@ from cgi import print_exception
 from tkinter import Y
 from turtle import width
 from unicodedata import name
+from urllib import response
 
 
 print("Hello, World")
 
 # declaring a variable
 name = 'Steve' # You can change your name here to whatever you want
+response = True
 print("Hello " + name + "," +  " How are you today?")
+if(response == True):
+    print("I'm fine thank you!")
 
 # Conditional if statement
 the_world_is_flat = True
