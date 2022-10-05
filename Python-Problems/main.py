@@ -37,8 +37,10 @@ chair = 1500
 table = 200
 print(chair // table) # result will be an Integer number
 
+# We use single slash to get a float number
 if(chair / table == 7.5):
     print("This is a float number")
 
+# We use the double slash to get an integer number
 if(chair // table == 7):
     print("This is an Integer number")
