@@ -29,7 +29,7 @@ Complex => Syntax: X + Yj
 
 # Numbers, height and width variables
 width = 15
-height = 2 * 5
+height = 2 * 5 # value is equal to the result of multiplying two by five
 print(height * width)
 # When height is multiplayed to width and devided by 5 it will print a new result
 if(height * width):
