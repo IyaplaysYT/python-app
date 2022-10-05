@@ -1,4 +1,6 @@
 # First app in python
+from cgi import print_exception
+from tkinter import Y
 from turtle import width
 from unicodedata import name
 
@@ -6,7 +8,7 @@ from unicodedata import name
 print("Hello, World")
 
 # declaring a variable
-name = 'Yasser' # You can change your name here to whatever you want
+name = 'Steve' # You can change your name here to whatever you want
 print("Hello " + name)
 
 # Conditional if statement
