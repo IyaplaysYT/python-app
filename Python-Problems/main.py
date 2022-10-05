@@ -30,3 +30,15 @@ print(height * width)
 # When height is multiplayed to width and devided by 5 it will print a new result
 if(height * width):
     print(height * width / 5)
+
+
+# Numbers and division type
+chair = 1500
+table = 200
+print(chair // table) # result will be an Integer number
+
+if(chair / table == 7.5):
+    print("This is a float number")
+
+if(chair // table == 7):
+    print("This is an Integer number")
