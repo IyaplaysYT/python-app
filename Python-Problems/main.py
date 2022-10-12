@@ -48,3 +48,8 @@ if(chair / table == 7.5):
 # We use the double slash to get an integer number
 if(chair // table == 7):
     print("This is an Integer number")
+
+# Strings of chars and special escaping
+'spam eggs' # single quotes
+'doesn\'t' # use \' to escape the single quotes
+print('"\"Yes, \" they said."')
