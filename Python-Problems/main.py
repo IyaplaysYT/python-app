@@ -53,3 +53,8 @@ if(chair // table == 7):
 'spam eggs' # single quotes
 'doesn\'t' # use \' to escape the single quotes
 print('"\"Yes, \" they said."')
+
+# Strings, new lines and the use of r
+s = 'First Line.\nSecond line.' # \n means newline
+print(s)
+print(r'C:\some\name')
